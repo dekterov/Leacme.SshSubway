@@ -5,6 +5,7 @@
 This application features the ability to connect to [Secure Shell (SSH)](https://en.wikipedia.org/wiki/Secure_Shell) server and execute commands once its shell is obtained.
 
 ![][image_screenshot]
+![index](https://user-images.githubusercontent.com/6654513/71704116-9b790c80-2d95-11ea-8956-7d72902fff30.png)
 
 ## Application Compiling
 
